@@ -1,6 +1,13 @@
 # ZADACA_S11
 Zadaca Sedmica 11
+Zadaca 2
 
+1) Citanje i pisanje koristeci Streamove. 
+2) Napisati klasu Person koja treba biti serializable, trebate naci koje metode da overrideate da bi objekt kad ispisan u file bio u formatu { atribut1: <vrijednost>, atribut2: <vrijednost2> }
+
+
+Zadaca 1
+*Nije obavezna
 
 Cilj je da napisete aplikaciju za odrzavanje knjizare.
 Ispod je project podjeljen na neke manje dijelove.

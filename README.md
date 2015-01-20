@@ -1,5 +1,6 @@
 # ZADACA_S11
 Zadaca Sedmica 11
+
 Zadaca 2
 
 1) Citanje i pisanje koristeci Streamove. 
@@ -7,6 +8,7 @@ Zadaca 2
 
 
 Zadaca 1
+
 *Nije obavezna
 
 Cilj je da napisete aplikaciju za odrzavanje knjizare.
